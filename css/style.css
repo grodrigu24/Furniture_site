@@ -74,27 +74,28 @@ body {
 
 #bookcases{
   grid-area: bookcases;
-  background-image:url(/unsolved/images/bookcases.png);
+  background-image:url("../images/bookcases.png");
 }
 
 #bedroom {
   grid-area: bedroom;
-  background-image:url(/unsolved/images/beds.png);
+  background-image:url("../images/beds.png");
 }
 
 #patio {
   grid-area: patio;
-  background-image: url(/unsolved/images/patio.png);
+  background-image: url("../images/patio.png");
+  
 }
 
 #couches{
   grid-area: couches;
-  background-image: url(/unsolved/images/couch.png);
+  background-image: url("../images/couch.png");
 }
 
 #desks{
   grid-area: desks;
-  background-image: url(/unsolved/images/desks.png);
+  background-image: url("../images/desks.png");
 }
 
 
